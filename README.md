@@ -1,6 +1,6 @@
 # AddidasExcelDashboard
 
-A dashbaord created on Excel using bits of sales info from addidas to create a visualization of the data.
+A dashboard created on Excel using bits of sales info from addidas to create a visualization of the data.
 
 ## Technology / Tools
 - Excel
